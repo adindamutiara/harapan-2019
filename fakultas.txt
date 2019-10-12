@@ -1,4 +1,5 @@
 fakultas unbaja
 -filkom
 -fteknik
--fkip
+-nuklir
+-ekonomi
